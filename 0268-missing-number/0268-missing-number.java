@@ -1,13 +1,15 @@
 import java.util.Arrays;
 class Solution {
     public int missingNumber(int[] nums) {
-      Arrays.sort(nums);
-      for(int i=0;i<nums.length;i++){
-        if(i!=nums[i]){
-            return i;
-        }
+      int Xor=0;
+         for(int i=0;i<=nums.length;i++){
+            Xor^=i;
+         }
+         for(int i=0;i<nums.length;i++){
+            Xor=Xor^nums[i];
+         }
+         return Xor;
       }
-      return nums.length;
+     
 
     }
-}
