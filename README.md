@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
