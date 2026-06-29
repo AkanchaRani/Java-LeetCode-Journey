@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0383-ransom-note) |
