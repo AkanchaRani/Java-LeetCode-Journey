@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
