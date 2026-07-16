@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
