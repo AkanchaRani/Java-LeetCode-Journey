@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -89,10 +90,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
