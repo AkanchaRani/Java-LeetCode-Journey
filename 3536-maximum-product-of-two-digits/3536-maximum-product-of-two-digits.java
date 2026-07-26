@@ -2,8 +2,8 @@ class Solution {
     public int maxProduct(int n) {
        
        // int temp=n;
-        int max=0;
-        int a=1;
+        int max=-1;
+        int a=-1;
         while(n!=0){
            int r=n%10;
            if(max<r){
