@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
