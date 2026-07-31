@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0409-longest-palindrome) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
