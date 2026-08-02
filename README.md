@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
