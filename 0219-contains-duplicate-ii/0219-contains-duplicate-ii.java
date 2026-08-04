@@ -1,4 +1,4 @@
-import java.util.HashMap;
+import java.util.*;
 
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
@@ -9,9 +9,7 @@ class Solution {
 
             if (map.containsKey(nums[i])) {
 
-                int prevIndex = map.get(nums[i]);
-
-                if (i - prevIndex <= k) {
+                if (i - map.get(nums[i]) <= k) {
                     return true;
                 }
             }
