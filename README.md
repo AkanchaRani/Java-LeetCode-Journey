@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
