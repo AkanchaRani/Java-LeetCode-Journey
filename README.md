@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
