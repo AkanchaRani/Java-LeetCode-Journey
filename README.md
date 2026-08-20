@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 ## Number Theory
 |  |
