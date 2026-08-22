@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
@@ -202,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
