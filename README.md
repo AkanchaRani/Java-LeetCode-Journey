@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0169-majority-element) |
 ## Simulation
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
