@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
@@ -252,8 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AkanchaRani/Java-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
